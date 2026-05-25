@@ -1,0 +1,316 @@
+[
+  {
+    "category": "workplace_harassment",
+    "title": "Workplace Harassment (POSH Act)",
+    "description": "Protection against sexual harassment at workplace under the POSH Act 2013",
+    "your_rights": [
+      "Right to file a complaint with the Internal Complaints Committee (ICC) within 3 months of incident",
+      "Right to confidentiality during inquiry — your identity cannot be disclosed",
+      "Right to be transferred or get paid leave during inquiry without loss of benefits",
+      "Right to appeal if unsatisfied with ICC decision within 90 days",
+      "Right to compensation covering lost earnings, medical expenses, and mental anguish",
+      "Employer is legally obligated to constitute an ICC if workforce exceeds 10 employees"
+    ],
+    "steps_to_take": [
+      "Document the incident with exact dates, times, locations, and any witnesses",
+      "Report to Internal Complaints Committee (ICC) of your organization in writing",
+      "If no ICC exists, report to Local Complaints Committee (LCC) of your district",
+      "File police complaint under IPC Section 354A for physical harassment",
+      "Approach National Commission for Women if complaint is not addressed"
+    ],
+    "helplines": ["National Commission for Women: 7827170170", "Police: 100", "Women Helpline: 1091"],
+    "keywords": ["harassment", "workplace", "office", "boss", "colleague", "POSH", "sexual harassment", "work", "hostile environment", "unwanted advances"]
+  },
+  {
+    "category": "police_arrest",
+    "title": "Rights During Police Arrest",
+    "description": "Fundamental rights every citizen has when arrested by police under Article 22 of the Constitution",
+    "your_rights": [
+      "Right to know the reason for arrest (Article 22) — police must tell you why",
+      "Right to inform a family member or friend about your arrest immediately",
+      "Right to meet a lawyer of your choice immediately after arrest",
+      "Right to be produced before a magistrate within 24 hours of arrest",
+      "Right to remain silent — you cannot be forced to confess under Article 20(3)",
+      "Right to medical examination if you claim torture or injury in custody",
+      "Women cannot be arrested after sunset or before sunrise except in exceptional cases with female officer present",
+      "Right to free legal aid if you cannot afford a lawyer under Article 39A",
+      "Right to bail in bailable offences — police cannot deny it"
+    ],
+    "steps_to_take": [
+      "Calmly ask the officer the reason for arrest and demand it in writing",
+      "Do not resist physically — note badge number and name of arresting officer",
+      "Immediately call a family member or lawyer — you have this right",
+      "Do not sign any document without reading fully or without a lawyer present",
+      "Remember or note the police station name and FIR number",
+      "If tortured in custody, report to magistrate during production within 24 hours"
+    ],
+    "helplines": ["Legal Aid: 15100", "Police Complaint: 100", "Human Rights Commission: 011-24663333", "NALSA: 15100"],
+    "keywords": ["arrest", "police", "detained", "custody", "FIR", "rights during arrest", "handcuffed", "locked up", "jail", "remand"]
+  },
+  {
+    "category": "fir_complaint",
+    "title": "Filing an FIR",
+    "description": "How to file a First Information Report (FIR) with the police",
+    "your_rights": [
+      "Police CANNOT refuse to register an FIR for a cognizable offence — it is a legal obligation",
+      "You can file FIR at any police station regardless of jurisdiction (Zero FIR)",
+      "You are entitled to a free copy of the FIR immediately after registration",
+      "If police refuse, you can send written complaint to Superintendent of Police by post",
+      "You can also file FIR online on state police portals",
+      "Magistrate can order police to register FIR if they refuse (Section 156(3) CrPC)"
+    ],
+    "steps_to_take": [
+      "Go to the nearest police station and meet the officer in charge",
+      "Give a written or oral complaint — ensure all facts, dates, and names are clearly mentioned",
+      "Collect the FIR copy with FIR number — it is free and your legal right",
+      "If refused, write to DSP/SP or file complaint on state police website",
+      "If still refused, file application before Magistrate under Section 156(3) CrPC",
+      "For women related crimes, complaint can be given to female officer only"
+    ],
+    "helplines": ["Police: 100", "Women Helpline: 1091", "Online FIR: check your state police website"],
+    "keywords": ["FIR", "file complaint", "police complaint", "report crime", "first information report", "zero FIR", "police refusing", "cognizable offence"]
+  },
+  {
+    "category": "cybercrime",
+    "title": "Cybercrime & Online Fraud",
+    "description": "What to do if you are a victim of online fraud, scam, hacking, or cybercrime under IT Act 2000",
+    "your_rights": [
+      "Right to report cybercrime under IT Act 2000 and IPC",
+      "Right to get money back if bank fraud is reported within 24 hours (RBI circular)",
+      "Right to file FIR at any cyber crime cell regardless of where fraud occurred",
+      "Right to remain anonymous when reporting online on cybercrime.gov.in",
+      "Right to compensation from fraudsters if convicted",
+      "Social media platforms must remove illegal content within 36 hours of complaint"
+    ],
+    "steps_to_take": [
+      "For financial fraud: immediately call your bank helpline to block the transaction",
+      "Call 1930 (National Cyber Crime Helpline) within first hour for best chance of recovery",
+      "Report on cybercrime.gov.in — keep the complaint number for follow-up",
+      "Take screenshots of all evidence — messages, payment confirmations, sender details",
+      "File FIR at nearest cyber crime cell or police station",
+      "For fake job offers: report on Sanchar Saathi portal (sancharsaathi.gov.in)",
+      "For online harassment or morphed images: report on cybercrime.gov.in under women/child section"
+    ],
+    "helplines": ["Cyber Crime Helpline: 1930", "cybercrime.gov.in", "Bank fraud: call your bank immediately"],
+    "keywords": ["cybercrime", "online fraud", "UPI fraud", "scam", "phishing", "fake call", "lottery scam", "hacked", "OTP fraud", "identity theft", "online harassment", "morphed images", "sextortion", "fake job"]
+  },
+  {
+    "category": "consumer_rights",
+    "title": "Consumer Rights & Product Complaints",
+    "description": "Rights when you buy a defective product or receive poor service under Consumer Protection Act 2019",
+    "your_rights": [
+      "Right to get refund, replacement, or repair for defective products",
+      "Right to file complaint in Consumer Court without a lawyer — self-representation allowed",
+      "Right to compensation for mental agony, legal costs, and losses caused",
+      "Right to claim within 2 years of the defect being noticed",
+      "E-commerce and online purchases are fully covered under Consumer Protection Act 2019",
+      "Right to product liability — manufacturer is responsible for harm caused by defective product",
+      "Right to fair contract — unfair terms in agreements can be challenged"
+    ],
+    "steps_to_take": [
+      "First raise complaint directly with the seller or company in writing — keep the email/chat",
+      "If unresolved within 30 days, file complaint on consumerhelpline.gov.in",
+      "Call National Consumer Helpline: 1800-11-4000 (toll free, Mon-Sat)",
+      "For disputes up to Rs 50 lakh: file in District Consumer Commission (no lawyer needed)",
+      "For Rs 50 lakh to 2 crore: State Consumer Commission",
+      "Keep all bills, receipts, warranty cards, and communication as evidence",
+      "For e-commerce: also file complaint on the platform's grievance portal first"
+    ],
+    "helplines": ["National Consumer Helpline: 1800-11-4000", "consumerhelpline.gov.in"],
+    "keywords": ["consumer", "defective product", "refund", "fraud purchase", "online shopping", "consumer court", "bad service", "warranty", "overcharging", "misleading advertisement", "e-commerce"]
+  },
+  {
+    "category": "tenant_rights",
+    "title": "Tenant & Rental Rights",
+    "description": "Legal rights of tenants against landlords in India",
+    "your_rights": [
+      "Landlord cannot evict you without proper legal notice — minimum 15 days as per agreement",
+      "Landlord cannot forcibly enter your rented premises without prior permission",
+      "Security deposit must be returned within reasonable time after vacating (usually 30 days)",
+      "Rent cannot be increased without proper notice and as per rental agreement terms",
+      "Right to basic amenities — landlord cannot cut water, electricity to force eviction",
+      "Tenant cannot be harassed or threatened — it is an offence under IPC",
+      "Under Model Tenancy Act 2021: security deposit capped at 2 months rent for residential"
+    ],
+    "steps_to_take": [
+      "Always have a written registered rental agreement — verbal agreements are hard to prove",
+      "Document property condition with photos and video when moving in and moving out",
+      "If illegally evicted or threatened: file complaint at local police station immediately",
+      "For security deposit issues: file case in Rent Control Court or District Consumer Forum",
+      "Approach Rent Authority of your city for official disputes",
+      "If landlord cuts utilities: file complaint in civil court for injunction"
+    ],
+    "helplines": ["Local police station: 100", "District Legal Services Authority: 15100"],
+    "keywords": ["tenant", "landlord", "rent", "eviction", "security deposit", "rental", "house owner", "pg", "accommodation", "lease", "rental agreement", "paying guest"]
+  },
+  {
+    "category": "domestic_violence",
+    "title": "Domestic Violence",
+    "description": "Legal protection against domestic violence under Protection of Women from Domestic Violence Act 2005",
+    "your_rights": [
+      "Right to live in the shared household — cannot be forced out even if you don't own it",
+      "Right to a Protection Order against the abuser issued by Magistrate",
+      "Right to monetary relief for medical expenses, loss of income, and maintenance",
+      "Right to custody of children in emergency situations",
+      "Right to free legal services under Legal Services Authorities Act",
+      "Physical, emotional, verbal, economic, and sexual abuse are all covered under this Act",
+      "Male victims, children, and elderly can also seek protection under IPC Sections 323, 324, 498A"
+    ],
+    "steps_to_take": [
+      "If in immediate danger: call Police 100 or Women Helpline 181 RIGHT NOW",
+      "Contact a Protection Officer in your district — they are available free of charge",
+      "File complaint at nearest police station under IPC Section 498A for cruelty",
+      "Approach Magistrate Court directly for emergency Protection Order",
+      "Contact an NGO or shelter home for immediate safety and legal support",
+      "Collect evidence: photos of injuries, medical reports, witness contacts, threatening messages"
+    ],
+    "helplines": ["Women Helpline: 181", "Police: 100", "iCall: 9152987821", "Vandrevala Foundation: 1860-2662-345", "NALSA: 15100"],
+    "keywords": ["domestic violence", "abuse", "husband", "wife", "family violence", "beaten", "physical abuse", "emotional abuse", "dowry harassment", "cruelty", "marital abuse"]
+  },
+  {
+    "category": "road_accident",
+    "title": "Road Accident Rights",
+    "description": "Legal rights and compensation process after a road accident under Motor Vehicles Act 2019",
+    "your_rights": [
+      "Right to free first aid and emergency treatment at any hospital — cannot be denied for lack of police clearance",
+      "Right to compensation from third-party insurance of the at-fault vehicle",
+      "Good Samaritans who help accident victims are legally protected from police harassment under MVA 2019",
+      "Hit-and-run victims can claim compensation from Solatium Fund (Rs 25,000 for grievous injury, Rs 2 lakh for death)",
+      "Right to claim within 6 months for hit-and-run from MACT",
+      "Right to interim compensation within 30 days of filing MACT claim"
+    ],
+    "steps_to_take": [
+      "Call 112 for ambulance and police immediately — do not move the injured unnecessarily",
+      "Take photos/video of accident scene, vehicle positions, number plates, and injuries",
+      "Get a copy of the FIR and Medico-Legal Certificate (MLC) from the hospital",
+      "Collect contact details of witnesses at the scene",
+      "File insurance claim with the at-fault vehicle's insurance company within 30 days",
+      "For compensation: file petition at Motor Accident Claims Tribunal (MACT) in your district",
+      "Hire a lawyer for MACT proceedings — many work on contingency for accident cases"
+    ],
+    "helplines": ["Emergency: 112", "Road Accident Emergency: 1073", "Motor Accident Claims: contact district MACT court"],
+    "keywords": ["accident", "road accident", "hit and run", "vehicle accident", "car crash", "bike accident", "compensation", "insurance claim", "MACT", "solatium fund"]
+  },
+  {
+    "category": "right_to_information",
+    "title": "Right to Information (RTI)",
+    "description": "How to use RTI Act 2005 to get information from any government office",
+    "your_rights": [
+      "Every Indian citizen can request information from any government department or public authority",
+      "Response must be given within 30 days (48 hours for matters involving life or liberty)",
+      "RTI fee is only Rs 10 — BPL citizens are completely exempt from all fees",
+      "You do not need to give any reason for asking information",
+      "Right to first appeal within 30 days if information is denied or incomplete",
+      "Right to second appeal to Central/State Information Commission if first appeal fails",
+      "Right to compensation if information is wrongly denied (Rs 250/day up to Rs 25,000)"
+    ],
+    "steps_to_take": [
+      "Write a simple application to the Public Information Officer (PIO) of the concerned department",
+      "Clearly state: what information you need, which period, which office",
+      "Pay Rs 10 fee via postal order, bank draft, or online at rtionline.gov.in",
+      "Submit physically or file online at rtionline.gov.in for central government departments",
+      "For state departments: use the respective state RTI portal",
+      "If denied or no response in 30 days: file First Appeal to the Appellate Authority",
+      "If First Appeal fails: file Second Appeal to Central/State Information Commission"
+    ],
+    "helplines": ["RTI Online Portal: rtionline.gov.in", "CIC Helpline: 011-26186536"],
+    "keywords": ["RTI", "right to information", "government information", "transparency", "public records", "government documents", "pio", "information commission", "government not responding"]
+  },
+  {
+    "category": "labour_rights",
+    "title": "Worker & Labour Rights",
+    "description": "Basic rights of employees and workers under Indian labour law",
+    "your_rights": [
+      "Right to minimum wage as per state government rates — varies by state and industry",
+      "Right to 12 days paid leave per year under Factories Act (earned leave)",
+      "Right to overtime pay at double the regular rate for hours beyond 9 per day or 48 per week",
+      "Right to Provident Fund (PF) contribution from employer if salary is below Rs 15,000",
+      "Right to safe and healthy working conditions under Factories Act",
+      "Right to gratuity after 5 years of continuous service (15 days salary per year worked)",
+      "Permanent employees cannot be terminated without valid reason and proper notice",
+      "Right to equal pay for equal work regardless of gender"
+    ],
+    "steps_to_take": [
+      "For wage theft or minimum wage violation: file complaint at Labour Commissioner office",
+      "For PF issues or employer not depositing PF: file grievance at epfindia.gov.in or call 1800-118-005",
+      "For wrongful termination: approach Labour Court with employment documents",
+      "For unsafe conditions: report to Factory Inspector of your district",
+      "For gratuity non-payment: file complaint with Controlling Authority (Labour Commissioner)",
+      "Keep copies of offer letter, salary slips, PF statements, and all work communication",
+      "For ESIC (medical benefit) issues: contact nearest ESIC office or esic.gov.in"
+    ],
+    "helplines": ["Labour Helpline: 1800-425-1514", "PF Helpline: 1800-118-005", "epfindia.gov.in", "ESIC: 1800-11-2526"],
+    "keywords": ["salary", "wages", "job", "employer", "fired", "terminated", "labour", "worker", "PF", "provident fund", "overtime", "gratuity", "minimum wage", "ESI", "unfair dismissal"]
+  },
+  {
+    "category": "land_property_rights",
+    "title": "Land & Property Rights",
+    "description": "Rights of citizens regarding land ownership, disputes, and property fraud",
+    "your_rights": [
+      "Right to inspect land records (khata, patta, mutation) at the sub-registrar office",
+      "Right to get certified copies of sale deed and property documents",
+      "Right to file complaint if property is fraudulently sold without your consent",
+      "Benami property transactions are illegal under Benami Transactions Act 1988",
+      "Right to approach civil court for property disputes and partition suits",
+      "Right to get property mutated in your name after purchase at tehsil/revenue office"
+    ],
+    "steps_to_take": [
+      "Verify land records online through your state's land records portal (e.g., Bhoomi in Karnataka, Bhulekh in UP)",
+      "For fraud or forged documents: file FIR at police station and complaint at Sub-Registrar office",
+      "For property disputes between family members: file partition suit in civil court",
+      "For illegal encroachment on your land: file complaint at local tehsildar office",
+      "Get property mutation done immediately after purchase to establish legal ownership",
+      "For benami property complaints: report to Income Tax Department"
+    ],
+    "helplines": ["Revenue Helpline: contact your state revenue department", "NALSA: 15100", "Police: 100"],
+    "keywords": ["land", "property", "plot", "house dispute", "land fraud", "mutation", "khata", "encroachment", "benami", "property documents", "sale deed", "land records", "partition"]
+  },
+  {
+    "category": "education_rights",
+    "title": "Education Rights",
+    "description": "Rights of students and parents under education law in India",
+    "your_rights": [
+      "Right to free and compulsory education for children aged 6-14 under RTE Act 2009",
+      "Right to 25% reserved seats in private schools for economically weaker sections (EWS) under RTE",
+      "No child can be expelled or failed until Class 8 under RTE Act",
+      "Right to get mark sheets, certificates, and migration certificates from school/college",
+      "University/college cannot withhold degree certificate for pending dues (Supreme Court ruling)",
+      "Right to re-evaluation or re-checking of answer sheets in most universities",
+      "Students with disabilities have right to accessibility and reasonable accommodation"
+    ],
+    "steps_to_take": [
+      "For RTE admission (EWS): apply at your district education office before deadline",
+      "If school denies TC or certificates: file complaint at District Education Officer (DEO)",
+      "If college withholds degree: approach University Grievance Cell or file writ petition in High Court",
+      "For ragging complaints: file on antiragging.in or call 1800-180-5522 (toll free)",
+      "For unfair exam results: apply for re-evaluation within the deadline given by university",
+      "For fee hike disputes: approach state Fee Regulatory Committee"
+    ],
+    "helplines": ["Anti-Ragging Helpline: 1800-180-5522", "antiragging.in", "RTE helpline: contact district education office"],
+    "keywords": ["education", "school", "college", "RTE", "admission", "TC", "degree", "certificate", "ragging", "fees", "exam", "marks", "result", "university", "student rights"]
+  },
+  {
+    "category": "disability_rights",
+    "title": "Disability Rights",
+    "description": "Rights of persons with disabilities under Rights of Persons with Disabilities Act 2016",
+    "your_rights": [
+      "Right to free education in government schools up to age 18",
+      "Right to 4% reservation in government jobs for persons with benchmark disabilities",
+      "Right to 5% reservation in government higher education institutions",
+      "Right to Unique Disability ID (UDID) card for accessing all benefits",
+      "Right to accessibility in public buildings, transport, and digital platforms",
+      "Right to equal treatment and protection from discrimination",
+      "Right to legal capacity — persons with disabilities can enter contracts, vote, and own property"
+    ],
+    "steps_to_take": [
+      "Get Disability Certificate from Chief Medical Officer (CMO) of your district",
+      "Apply for UDID card at swavlambancard.gov.in for unified access to all schemes",
+      "For job reservation: apply through respective state/central government job portals",
+      "For discrimination complaints: file with Chief Commissioner for Persons with Disabilities (CCPD)",
+      "For accessibility violations in public places: file complaint with district administration",
+      "For education benefits: approach DEO or university disability cell"
+    ],
+    "helplines": ["CCPD Helpline: 1800-11-4515", "swavlambancard.gov.in", "NALSA: 15100"],
+    "keywords": ["disability", "handicap", "differently abled", "wheelchair", "blind", "deaf", "UDID", "disability certificate", "reservation disabled", "accessibility"]
+  }
+]
